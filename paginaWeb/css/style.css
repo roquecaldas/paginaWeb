@@ -1,0 +1,36 @@
+body{
+	padding-top:50px;
+	
+}
+
+/*la barra de navegacion*/
+	header nav div{
+		background-color:  rgb(0,67,88);
+		
+	}
+	/*logo*/
+	.navbar-brand {
+		padding-top:8px;
+		
+		
+	}
+	/*fin logo*/
+
+	/*usuario*/
+	.fa-user{
+		color:white;
+		padding-right: 15px;
+	}
+	/*fin usuario*/
+/*fin barra de navegacion*/
+
+
+
+
+/*imagenes de slider*/
+	.item img{
+		display: block;
+		height: 50px;
+		margin:0 auto 0 auto;
+	}
+/*fin imagenes slider*/
